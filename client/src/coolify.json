@@ -1,0 +1,10 @@
+{
+  "build": {
+    "base": ".",
+    "commands": [
+      "npm install",
+      "npm run build"
+    ],
+    "output": "dist"
+  }
+}
